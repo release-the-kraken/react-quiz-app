@@ -1,5 +1,5 @@
 {
-  "name": "reactjs_nix",
+  "name": "reactjs_quiz",
   "version": "1.0.0",
   "description": "ReactJS on Replit, using Vite bundler",
   "main": "index.js",
