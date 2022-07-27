@@ -53,3 +53,10 @@ ul{
   text-shadow: 0px 1px 2px #66ff66;
   box-shadow: 0px 1px 2px #66ff66;
 }
+.wrong-answer{
+  color: #ea1526;  
+}
+.right-answer{
+  color: #12ff00;
+}
+
