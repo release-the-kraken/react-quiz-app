@@ -4,6 +4,7 @@ import WelcomeScreen from './welcome_screen';
 import Question from './question';
 import Answers from './answers';
 import Result from './result';
+import userAnswers from './user_answers';
 
 class QuizContainer extends React.Component {
   constructor(props) {
